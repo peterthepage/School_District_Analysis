@@ -15,6 +15,6 @@ Original Scores
 ![Original](https://github.com/peterthepage/School_District_Analysis/blob/main/Resources/thomas_original.PNG)
 Revised Scores
 ![Revised](https://github.com/peterthepage/School_District_Analysis/blob/main/Resources/Thomas_revised.PNG)
-
+* Originally Thomas High School was in the top 5 of schools, this knocks them out of the top 5.
 # Summary - 
-
+Thomas High School's fraudulant 9th grade scores biggest impact was on Thomas' scores. While they do affect the other school metrics based on size, type, and spending; Thomas' scores were a small part of a larger whole. This meant that while the metrics were affected, it was not dramatically so.
